@@ -1,0 +1,111 @@
+Name,TeamType,StadiumName,EstablishedYear,Nickname,StadiumCapacity,CountryCode
+Arsenal,CLUB,Placeholder Stadium,1886,Gunners,60000,ENG
+Aston Villa,CLUB,Placeholder Stadium,1874,Villans,42000,ENG
+Bournemouth,CLUB,Placeholder Stadium,1899,Cherries,11000,ENG
+Brentford,CLUB,Placeholder Stadium,1889,Bees,17000,ENG
+Brighton & Hove Albion,CLUB,Placeholder Stadium,1901,Seagulls,31000,ENG
+Chelsea,CLUB,Placeholder Stadium,1905,Blues,40000,ENG
+Crystal Palace,CLUB,Placeholder Stadium,1905,Eagles,25000,ENG
+Everton,CLUB,Placeholder Stadium,1878,Toffees,39000,ENG
+Fulham,CLUB,Placeholder Stadium,1879,Cottagers,25000,ENG
+Ipswich Town,CLUB,Placeholder Stadium,1878,Tractor Boys,30000,ENG
+Leicester City,CLUB,Placeholder Stadium,1884,Foxes,32000,ENG
+Liverpool,CLUB,Placeholder Stadium,1892,Reds,54000,ENG
+Manchester City,CLUB,Placeholder Stadium,1880,Citizens,55000,ENG
+Manchester United,CLUB,Old Trafford,1878,Red Devils,74310,ENG
+Newcastle United,CLUB,Placeholder Stadium,1892,Magpies,52000,ENG
+Nottingham Forest,CLUB,Placeholder Stadium,1865,Forest,30000,ENG
+Southampton,CLUB,Placeholder Stadium,1885,Saints,32000,ENG
+Tottenham Hotspur,CLUB,Tottenham Hotspur Stadium,1882,Spurs,62850,ENG
+West Ham United,CLUB,Placeholder Stadium,1895,Hammers,62000,ENG
+Wolverhampton Wanderers,CLUB,Placeholder Stadium,1877,Wolves,32000,ENG
+Burnley,CLUB,Placeholder Stadium,1882,Clarets,22000,ENG
+Luton Town,CLUB,Placeholder Stadium,1885,Hatters,11000,ENG
+Sheffield United,CLUB,Placeholder Stadium,1889,Blades,32000,ENG
+Blackburn Rovers,CLUB,Placeholder Stadium,1875,Rovers,31000,ENG
+Bristol City,CLUB,Placeholder Stadium,1894,Robins,27000,ENG
+Cardiff City,CLUB,Placeholder Stadium,1899,Bluebirds,33000,ENG
+Coventry City,CLUB,Placeholder Stadium,1883,Sky Blues,32000,ENG
+Derby County,CLUB,Placeholder Stadium,1884,Rams,33000,ENG
+Hull City,CLUB,Placeholder Stadium,1904,Tigers,25000,ENG
+Leeds United,CLUB,Elland Road,1919,The Whites,37890,ENG
+Middlesbrough,CLUB,Placeholder Stadium,1876,Boro,34000,ENG
+Millwall,CLUB,Placeholder Stadium,1885,Lions,20000,ENG
+Norwich City,CLUB,Placeholder Stadium,1902,Canaries,27000,ENG
+Oxford United,CLUB,Placeholder Stadium,1893,Yellows,12000,ENG
+Plymouth Argyle,CLUB,Placeholder Stadium,1886,Pilgrims,18000,ENG
+Portsmouth,CLUB,Placeholder Stadium,1898,Pompey,20000,ENG
+Preston North End,CLUB,Placeholder Stadium,1880,PNE,23000,ENG
+Queens Park Rangers,CLUB,Placeholder Stadium,1882,Hoops,18000,ENG
+Sheffield Wednesday,CLUB,Placeholder Stadium,1867,Owls,39000,ENG
+Stoke City,CLUB,Placeholder Stadium,1863,Potters,30000,ENG
+Sunderland,CLUB,Stadium of Light,1879,The Black Cats,49000,ENG
+Swansea City,CLUB,Placeholder Stadium,1912,Swans,21000,ENG
+Watford,CLUB,Placeholder Stadium,1881,Hornets,22000,ENG
+West Bromwich Albion,CLUB,Placeholder Stadium,1878,Baggies,27000,ENG
+Birmingham City,CLUB,Placeholder Stadium,1875,Blues,29000,ENG
+Blackpool,CLUB,Placeholder Stadium,1887,Seasiders,16000,ENG
+Bolton Wanderers,CLUB,Placeholder Stadium,1874,Trotters,28000,ENG
+Bristol Rovers,CLUB,Placeholder Stadium,1883,Pirates,12000,ENG
+Burton Albion,CLUB,Placeholder Stadium,1884,Brewers,6000,ENG
+Cambridge United,CLUB,Placeholder Stadium,1912,U's,8000,ENG
+Charlton Athletic,CLUB,Placeholder Stadium,1905,Addicks,27000,ENG
+Cheltenham Town,CLUB,Placeholder Stadium,1887,Robins,7000,ENG
+Crawley Town,CLUB,Placeholder Stadium,1896,Red Devils,5000,ENG
+Exeter City,CLUB,Placeholder Stadium,1904,Grecians,8000,ENG
+Huddersfield Town,CLUB,Placeholder Stadium,1908,Terriers,24000,ENG
+Leyton Orient,CLUB,Placeholder Stadium,1881,O's,9000,ENG
+Lincoln City,CLUB,Placeholder Stadium,1884,Imps,10000,ENG
+Mansfield Town,CLUB,Placeholder Stadium,1897,Stags,9000,ENG
+Northampton Town,CLUB,Placeholder Stadium,1897,Cobblers,7000,ENG
+Peterborough United,CLUB,Placeholder Stadium,1934,Posh,15000,ENG
+Reading,CLUB,Placeholder Stadium,1871,Royals,24000,ENG
+Rotherham United,CLUB,Placeholder Stadium,1925,Millers,12000,ENG
+Shrewsbury Town,CLUB,Placeholder Stadium,1886,Shrews,10000,ENG
+Stevenage,CLUB,Placeholder Stadium,1976,Boro,7000,ENG
+Stockport County,CLUB,Placeholder Stadium,1883,Hatters,10000,ENG
+Wigan Athletic,CLUB,Placeholder Stadium,1932,Latics,25000,ENG
+Wrexham,CLUB,Placeholder Stadium,1864,Dragons,12000,ENG
+Wycombe Wanderers,CLUB,Placeholder Stadium,1887,Chairboys,10000,ENG
+Accrington Stanley,CLUB,Placeholder Stadium,1968,Stanley,5000,ENG
+AFC Wimbledon,CLUB,Placeholder Stadium,2002,Dons,9000,ENG
+Barrow,CLUB,Placeholder Stadium,1901,Bluebirds,5000,ENG
+Bradford City,CLUB,Placeholder Stadium,1903,Bantams,25000,ENG
+Bromley,CLUB,Placeholder Stadium,1892,Ravens,5000,ENG
+Carlisle United,CLUB,Placeholder Stadium,1904,Cumbrians,18000,ENG
+Colchester United,CLUB,Placeholder Stadium,1937,U's,10000,ENG
+Crewe Alexandra,CLUB,Placeholder Stadium,1877,Railwaymen,10000,ENG
+Doncaster Rovers,CLUB,Placeholder Stadium,1879,Rovers,15000,ENG
+Forest Green Rovers,CLUB,Placeholder Stadium,1889,FGR,5000,ENG
+Gillingham,CLUB,Placeholder Stadium,1893,Gills,11000,ENG
+Grimsby Town,CLUB,Placeholder Stadium,1878,Mariners,9000,ENG
+Harrogate Town,CLUB,Placeholder Stadium,1914,Sulphurites,5000,ENG
+Milton Keynes Dons,CLUB,Placeholder Stadium,2004,MK Dons,30000,ENG
+Morecambe,CLUB,Placeholder Stadium,1920,Shrimps,6000,ENG
+Newport County,CLUB,Placeholder Stadium,1912,Exiles,7000,ENG
+Notts County,CLUB,Placeholder Stadium,1862,Magpies,20000,ENG
+Port Vale,CLUB,Placeholder Stadium,1876,Valiants,19000,ENG
+Salford City,CLUB,Placeholder Stadium,1940,Ammies,5000,ENG
+Swindon Town,CLUB,Placeholder Stadium,1879,Robins,15000,ENG
+Tranmere Rovers,CLUB,Placeholder Stadium,1884,Rovers,16000,ENG
+Walsall,CLUB,Placeholder Stadium,1888,Saddlers,11000,ENG
+Yeovil Town,CLUB,Placeholder Stadium,1895,Glovers,9000,ENG
+Chesterfield,CLUB,Placeholder Stadium,1866,Spireites,10000,ENG
+Aldershot Town,CLUB,Placeholder Stadium,1992,Shots,7000,ENG
+Altrincham,CLUB,Placeholder Stadium,1891,Robins,6000,ENG
+Barnet,CLUB,Placeholder Stadium,1888,Bees,6000,ENG
+Boreham Wood,CLUB,Placeholder Stadium,1948,Wood,4000,ENG
+Dagenham & Redbridge,CLUB,Placeholder Stadium,1992,Daggers,6000,ENG
+Dorking Wanderers,CLUB,Placeholder Stadium,1999,Wanderers,3000,ENG
+Eastleigh,CLUB,Placeholder Stadium,1946,Spitfires,5000,ENG
+Gateshead,CLUB,Placeholder Stadium,1930,Heed,10000,ENG
+Hartlepool United,CLUB,Placeholder Stadium,1908,Pools,7000,ENG
+Kidderminster Harriers,CLUB,Placeholder Stadium,1886,Harriers,6000,ENG
+Maidenhead United,CLUB,Placeholder Stadium,1870,Magpies,4000,ENG
+Oldham Athletic,CLUB,Placeholder Stadium,1895,Latics,13000,ENG
+Rochdale,CLUB,Placeholder Stadium,1907,Dale,10000,ENG
+Solihull Moors,CLUB,Placeholder Stadium,2007,Moors,5000,ENG
+Southend United,CLUB,Placeholder Stadium,1906,Shrimpers,12000,ENG
+Wealdstone,CLUB,Placeholder Stadium,1899,Stones,4000,ENG
+York City,CLUB,Placeholder Stadium,1922,Minster-men,8000,ENG
+Wales National Team,NATIONAL,,,,,WAL
