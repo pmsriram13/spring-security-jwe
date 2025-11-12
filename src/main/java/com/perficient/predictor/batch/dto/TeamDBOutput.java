@@ -6,7 +6,7 @@ package com.perficient.predictor.batch.dto;
  * * Implemented as a Java Record for conciseness, automatically providing
  * a canonical constructor, accessor methods, equals(), hashCode(), and toString().
  */
-public record TeamInput(
+public record TeamDBOutput(
         String name,
         String teamType, // e.g., 'CLUB', 'NATIONAL'
         String stadiumName,
