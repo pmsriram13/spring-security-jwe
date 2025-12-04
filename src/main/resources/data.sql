@@ -14,29 +14,13 @@ SET @updated_by = 'SYSTEM_INIT';
 -- -------------------------
 
 
-
--- National Team Example (TEAM_ID 5-6)
-INSERT INTO TEAM (NAME, TEAM_TYPE, COUNTRY_CODE, UPDATED_BY)
-VALUES
-    ('Brazil National Team', 'NATIONAL', 'BRA', @updated_by),
-    ('England National Team', 'NATIONAL', 'ENG', @updated_by);
-
-
 -- -------------------------
 -- 2. COMPETITION Data
 -- -------------------------
 
 -- COMPETITION_ID 1-3
-INSERT INTO COMPETITION (NAME, COUNTRY_ID, UPDATED_BY)
-VALUES
-    ('Premier League', 1, @updated_by),
-    ('UEFA Champions League', 999, @updated_by),
-    ('World Cup', 999, @updated_by);
 
-
-
-
--- -------------------------
+-- ------------------------
 -- 4. PLAYER Data (PLAYER_ID 1-3)
 -- -------------------------
 

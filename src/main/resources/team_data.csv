@@ -1,13 +1,13 @@
 Name,TeamType,StadiumName,EstablishedYear,Nickname,StadiumCapacity,CountryCode
-Arsenal,CLUB,Placeholder Stadium,1886,Gunners,60000,ENG
+Arsenal,CLUB,Emirates,1886,Gunners,60000,ENG
 Aston Villa,CLUB,Placeholder Stadium,1874,Villans,42000,ENG
 Bournemouth,CLUB,Placeholder Stadium,1899,Cherries,11000,ENG
 Brentford,CLUB,Placeholder Stadium,1889,Bees,17000,ENG
 Brighton & Hove Albion,CLUB,Placeholder Stadium,1901,Seagulls,31000,ENG
-Chelsea,CLUB,Placeholder Stadium,1905,Blues,40000,ENG
+Chelsea,CLUB,Stamford bridge,1905,Blues,40000,ENG
 Crystal Palace,CLUB,Placeholder Stadium,1905,Eagles,25000,ENG
 Everton,CLUB,Placeholder Stadium,1878,Toffees,39000,ENG
-Fulham,CLUB,Placeholder Stadium,1879,Cottagers,25000,ENG
+Fulham,,Craven Cottage,1879,Cottagers,25000,ENG
 Ipswich Town,CLUB,Placeholder Stadium,1878,Tractor Boys,30000,ENG
 Leicester City,CLUB,Placeholder Stadium,1884,Foxes,32000,ENG
 Liverpool,CLUB,Placeholder Stadium,1892,Reds,54000,ENG

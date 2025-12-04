@@ -13,7 +13,7 @@ public record TeamDBOutput(
         Integer establishedYear,
         String nickname,
         Integer stadiumCapacity,
-        String countryCode, // e.g., 'ENG'
+        Long countryCode, // e.g., 'ENG'
         String updatedBy // For audit trail/writer compatibility
 ) {
     // Note: No body needed. The compiler automatically generates the constructor and accessors.
